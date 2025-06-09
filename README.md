@@ -165,4 +165,4 @@ Key UX Touchpoints:
 
 🎯 **North Star Metric**: Instant Loan Approval → Disbursal Time + Repeat Usage
 
-For product demo or GTM decks, reach out at: [aadits83_off@gmail.com]
+For product demo or GTM decks, reach out at: [aadits83.off@gmail.com]
